@@ -83,8 +83,37 @@ Events
 | project eventID, type, description, ts, name, email
 ```
 
+Top use cases:
+- No code productivity
+
 ## SDK Solution
+
+### Top concepts
+
+Use cases:
+
 
 ## AI Agents Solution
 
+### Top concepts
+
+- Tools (Code Interpreter, File Search, Function Calling)
+- Context management (Agents will remember the conversations)
+- Image generation and file generation
+
+Top uses cases: 
+- Analysis with code interpreter
+- Simple RAG
+- Complex interactions with tools
+
 ## AutoGen Agentic Solution 
+
+### Top concepts:
+
+- Agent configuration
+- Termination
+- Tools
+
+Top use cases:
+- Complex Agent orchestration
+- Unattended systems that can take actions on behalf of users
