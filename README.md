@@ -2,7 +2,7 @@
 
 Exploring the differences between Copilots, SDKs, and Agentic solutions, and learn how each can be leveraged to enhance productivity and innovation.
 
-## User story for this
+## User story
 
 As a user I want to use AI to help me write or rewrite KQL queries.
 
