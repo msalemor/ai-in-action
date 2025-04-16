@@ -1,6 +1,6 @@
 # AI in Action
 
-Exploring the differences between Copilots, SDKs, and Agentic solutions, and learn how each can be leveraged to enhance productivity and innovation.
+Exploring the differences between Copilots, SDKs, and Agentic solutions, and learn how each can be leveraged to enhance productivity and innovation. In this repo, we will explore four different techniques to work on the following user story:
 
 ## User story
 
