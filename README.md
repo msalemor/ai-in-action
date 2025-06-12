@@ -25,6 +25,10 @@ As a user I want to use AI to help me write or rewrite KQL queries.
     - User: Represents the individual interacting with the AI.
     - Assistant: The AI model that responds to the user's queries and tasks.
 
+## LLM Formula
+
+![LLM Formulate](images/llm-formula.png)
+
 ## The rules
 
 1. Calling the LLM is simple, what is difficult is everything else.
@@ -85,7 +89,7 @@ Events
 
 ## Code first technologies
 
-![](images/code-first-table.png)
+![Code First MS AI Technologies](images/code-first-table.png)
 
 ## SDK Solution
 
