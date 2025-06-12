@@ -16,6 +16,7 @@ As a user I want to use AI to help me write or rewrite KQL queries.
   - Prompt engineering techniques:
     - Zero shot (no examples)
     - Few shot (one ore more examples)
+    - Disable the semantic index
     - Reference: [Prompt engineering techniques](https://www.promptingguide.ai/techniques)
 - Context: The surrounding information or text that helps an AI model understand and generate relevant responses.
 - Models:
