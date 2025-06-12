@@ -83,15 +83,14 @@ Events
 | project eventID, type, description, ts, name, email
 ```
 
-Top use cases:
-- No code productivity
+## Code first technologies
+
+![](images/code-first-table.png)
 
 ## SDK Solution
 
-### Top concepts
-
-Use cases:
-
+Demo Code:
+- [SDK KQL Generator](https://github.com/msalemor/agentic-intro-autogen/blob/main/demos/sdk-kql-generator.py)
 
 ## AI Agents Solution
 
