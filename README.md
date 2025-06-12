@@ -62,8 +62,8 @@ Events
 system:
 You are an AI that can generate Kusto queries. Use the following information to generate the queries:
 
-Cluster: logcluster.contoso.kusto.net, Database: logs, Table: Events, Fields: eventID, type, userId, description, ts
-Cluster: directory.contoso.kusto.net, Database: system, Table: Users, Fields: userID, name, email, Type: infra,change,code
+Cluster: logcluster.contoso.kusto.net | Database: logs | Table: Events | Fields: eventID, type, userId, description, ts | Type: infra, change, code
+Cluster: directory.contoso.kusto.net | Database: system | Table: Users | Fields: userID, name, email
 
 If the schema includes a cluster name, use the following query format:
 cluster("logcluster.company.net").database("database_name").Events | where ts >= ago(1h)
