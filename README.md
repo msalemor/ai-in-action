@@ -87,7 +87,7 @@ Events
 | project eventID, type, description, ts, name, email
 ```
 
-## Code first technologies
+## Code first AI Technologies
 
 ![Code First MS AI Technologies](images/code-first-table.png)
 
