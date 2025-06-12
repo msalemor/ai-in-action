@@ -29,6 +29,10 @@ As a user I want to use AI to help me write or rewrite KQL queries.
 
 ![LLM Formulate](images/llm-formula.png)
 
+## LLM Messages
+
+![LLM Messages](images/llm-messages.png)
+
 ## The rules
 
 1. Calling the LLM is simple, what is difficult is everything else.
