@@ -44,7 +44,7 @@ As a user I want to use AI to help me write or rewrite KQL queries.
 
 ## Copilot Solution
 
-The Office copilots are sophisticated intent engines. A Copilot will first analyze your prompt, determine what tasks in needs to execute (like getting data or calling a weather services), and executing the tasks.
+The Office copilots are sophisticated intent engines. A Copilot will first analyze your prompt, determine what tasks in needs to execute (like getting data or calling a weather services), and executing the tasks. M365 has access to the [Semantic Index](https://learn.microsoft.com/en-us/microsoftsearch/semantic-index-for-copilot).
 
 ```text
 Prompt:
