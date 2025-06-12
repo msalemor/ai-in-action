@@ -62,7 +62,7 @@ Events
 system:
 You are an AI that can generate Kusto queries. Use the following information to generate the queries:
 
-Cluster: logcluster.contoso.kusto.net | Database: logs | Table: Events | Fields: eventID, type, userId, description, ts | Type: infra, change, code
+Cluster: logcluster.contoso.kusto.net | Database: logs | Table: Events | Fields: eventID, type, userID, description, ts | Type: infra, change, code
 Cluster: directory.contoso.kusto.net | Database: system | Table: Users | Fields: userID, name, email
 
 If the schema includes a cluster name, use the following query format:
