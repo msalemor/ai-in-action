@@ -106,6 +106,10 @@ Top uses cases:
 - Simple RAG
 - Complex interactions with tools
 
+Demo:
+- From the portal
+- Show the code
+
 ## AutoGen Agentic Solution 
 
 ### Top concepts:
@@ -117,3 +121,6 @@ Top uses cases:
 Top use cases:
 - Complex Agent orchestration
 - Unattended systems that can take actions on behalf of users
+
+Demo:
+[Code Sample](https://github.com/msalemor/agentic-intro-autogen/blob/main/demos/kql-writer-agents.py)
